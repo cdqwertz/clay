@@ -1,0 +1,11 @@
+This mod adds colored clay to your minetest world!
+
+Crafting:
+Colored Clay:
+
+| C | D |
+
+	C : Clay
+	D : Dye
+
+cd2 (cdqwertz) - cdqwertz.github.io
